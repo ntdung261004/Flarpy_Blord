@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KOT104\\Flarpy Blord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80CE7214-9C47-8615-7D3A-75049E2F69DD}|Assembly-CSharp.csproj|d:\\kot104\\flarpy blord\\assets\\scripts\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CE7214-9C47-8615-7D3A-75049E2F69DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CE7214-9C47-8615-7D3A-75049E2F69DD}|Assembly-CSharp.csproj|D:\\KOT104\\Flarpy Blord\\assets\\scripts\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CE7214-9C47-8615-7D3A-75049E2F69DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CE7214-9C47-8615-7D3A-75049E2F69DD}|Assembly-CSharp.csproj|D:\\KOT104\\Flarpy Blord\\assets\\scripts\\pipespawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CE7214-9C47-8615-7D3A-75049E2F69DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipespawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CE7214-9C47-8615-7D3A-75049E2F69DD}|Assembly-CSharp.csproj|D:\\KOT104\\Flarpy Blord\\assets\\scripts\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CE7214-9C47-8615-7D3A-75049E2F69DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CE7214-9C47-8615-7D3A-75049E2F69DD}|Assembly-CSharp.csproj|D:\\KOT104\\Flarpy Blord\\assets\\birdflyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CE7214-9C47-8615-7D3A-75049E2F69DD}|Assembly-CSharp.csproj|solutionrelative:assets\\birdflyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CE7214-9C47-8615-7D3A-75049E2F69DD}|Assembly-CSharp.csproj|D:\\KOT104\\Flarpy Blord\\assets\\scripts\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CE7214-9C47-8615-7D3A-75049E2F69DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BirdFlyScript.cs",
+              "DocumentMoniker": "D:\\KOT104\\Flarpy Blord\\Assets\\BirdFlyScript.cs",
+              "RelativeDocumentMoniker": "Assets\\BirdFlyScript.cs",
+              "ToolTip": "D:\\KOT104\\Flarpy Blord\\Assets\\BirdFlyScript.cs",
+              "RelativeToolTip": "Assets\\BirdFlyScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:55:21.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PipeMiddleScript.cs",
+              "DocumentMoniker": "D:\\KOT104\\Flarpy Blord\\Assets\\Scripts\\PipeMiddleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeMiddleScript.cs",
+              "ToolTip": "D:\\KOT104\\Flarpy Blord\\Assets\\Scripts\\PipeMiddleScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeMiddleScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:03:19.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "D:\\KOT104\\Flarpy Blord\\Assets\\Scripts\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LogicScript.cs",
+              "ToolTip": "D:\\KOT104\\Flarpy Blord\\Assets\\Scripts\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LogicScript.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:57:26.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PipeSpawnerScript.cs",
+              "DocumentMoniker": "D:\\KOT104\\Flarpy Blord\\Assets\\Scripts\\PipeSpawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeSpawnerScript.cs",
+              "ToolTip": "D:\\KOT104\\Flarpy Blord\\Assets\\Scripts\\PipeSpawnerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeSpawnerScript.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:18:14.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PipeMoveScript.cs",
+              "DocumentMoniker": "D:\\KOT104\\Flarpy Blord\\Assets\\Scripts\\PipeMoveScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeMoveScript.cs",
+              "ToolTip": "D:\\KOT104\\Flarpy Blord\\Assets\\Scripts\\PipeMoveScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeMoveScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:10:31.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BirdScript.cs",
+              "DocumentMoniker": "D:\\KOT104\\Flarpy Blord\\Assets\\Scripts\\BirdScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BirdScript.cs",
+              "ToolTip": "D:\\KOT104\\Flarpy Blord\\Assets\\Scripts\\BirdScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BirdScript.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:57:32.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
